@@ -1,1 +1,1 @@
-# Machine_Learning_Notes
+# Machine Öğrenmesi dosyası ile başlayıp sırayla göz atmanızı tavsiye ederim.
